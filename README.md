@@ -41,7 +41,7 @@ Contributions, suggestions, and feedback are welcome! Please feel free to open i
 
 **License**
 
-This project is licensed under the [LICENSE NAME]. 
+This project is not yet licensed
 
 **Disclaimer**
 
@@ -49,6 +49,6 @@ This project is experimental and may undergo significant changes. Use at your ow
 
 **Let's make astrophotography more accessible and enjoyable!**
 
-Please note that this README is a template and may need to be adjusted to reflect the specific details of your project as it evolves. 
+
 
 
